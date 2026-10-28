@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'prithika2007/Kubernets'
+        IMAGE_NAME = 'prithika2007/kubernets'
     }
 
     stages {
